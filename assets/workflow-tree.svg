@@ -1,0 +1,714 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="3400" viewBox="0 0 1560 3400" role="img" aria-label="WebRecon workflow tree" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4NGI5NTYwZi0yMTdlLTQ4MDgtODgzNS02OGU4MDFkNWQxZTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIigxThOpa5QrsUKtRBRCcsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1ZjE1OTVmOC04NmQ2LTQ2ZWItOTJhNi1jMmE4NWM2MDc1NjZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoQiBI5+KxvCGGGe+rtWIs4QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggDBfKvbDjj6Zt0u+5cVIOSYUTuaoevTMAcmGUHnsQn/6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDTm7lkq5rn5/FFBLQgNKu4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBpwj3zz5MHD1/swM1wcYWsWdigCXau4yKg11su15vHPWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjJZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg0Yjk1NjBmLTIxN2UtNDgwOC04ODM1LTY4ZTgwMWQ1ZDFlMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRlNDk2ZGE4LWJmYmQtNDIxMC1iMWI3LTQ2M2RiMjI4MTAwMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAMF8q9sOOPpm3S77lxUg5JhRO5qh69MwByYZQeexCf/qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggOxVut7KwWMpZu8IvkhQQeSA6r+OebePuxj+fyAeXdDiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggl2DYcHc4bjf9xVflpezr3uwN45w7AJW5khlBFqv1z8h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEdf0SPlyp/LGIhNHEmOvUW3d6CYvQd2h1jVNllO4z7AwL8UEctlXwbSjWOV8qh1u0yfsnFl6/X7cE94NQ33F9g=</c2pa:manifest></metadata>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070a10"/><stop offset="1" stop-color="#0b1017"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx="15%" cy="8%" r="45%"><stop offset="0" stop-color="#60a5fa" stop-opacity=".22"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowB" cx="88%" cy="90%" r="45%"><stop offset="0" stop-color="#a78bfa" stop-opacity=".18"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <linearGradient id="recon" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22c55e" stop-opacity=".30"/><stop offset="1" stop-color="#0f141c" stop-opacity=".85"/></linearGradient>
+  <linearGradient id="vuln" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ef4444" stop-opacity=".30"/><stop offset="1" stop-color="#0f141c" stop-opacity=".85"/></linearGradient>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1560" height="3400" fill="url(#bg)"/><rect width="1560" height="3400" fill="url(#glowA)"/><rect width="1560" height="3400" fill="url(#glowB)"/>
+<text x="780.0" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff">WebRecon workflow</text>
+<text x="780.0" y="78" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#94a3b8">Each arrow means “must run before”. Green = recon · Red = vulnerability check</text>
+<path d="M740.0,206.0 C740.0,232.0 276.0,232.0 276.0,252.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M276.0,354.0 C276.0,380.0 147.0,380.0 147.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M276.0,354.0 C276.0,380.0 379.0,380.0 379.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,502.0 C379.0,598.0 508.0,598.0 508.0,688.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,790.0 C508.0,816.0 147.0,816.0 147.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,790.0 C508.0,816.0 379.0,816.0 379.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,790.0 C508.0,816.0 611.0,816.0 611.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M147.0,938.0 C147.0,1034.0 624.0,1034.0 624.0,1124.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,938.0 C379.0,1034.0 624.0,1034.0 624.0,1124.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M276.0,354.0 C276.0,380.0 611.0,380.0 611.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M611.0,502.0 C611.0,598.0 740.0,598.0 740.0,688.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,790.0 C740.0,816.0 843.0,816.0 843.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,206.0 C740.0,232.0 508.0,232.0 508.0,252.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,380.0 843.0,380.0 843.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,380.0 1075.0,380.0 1075.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,380.0 1307.0,380.0 1307.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,380.0 1539.0,380.0 1539.0,400.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M843.0,502.0 C843.0,598.0 972.0,598.0 972.0,688.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1075.0,502.0 C1075.0,598.0 972.0,598.0 972.0,688.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1307.0,502.0 C1307.0,598.0 972.0,598.0 972.0,688.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1539.0,502.0 C1539.0,598.0 972.0,598.0 972.0,688.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M972.0,790.0 C972.0,816.0 1307.0,816.0 1307.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,450.0 392.0,450.0 392.0,540.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,450.0 624.0,450.0 624.0,540.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,450.0 856.0,450.0 856.0,540.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,354.0 C508.0,450.0 1088.0,450.0 1088.0,540.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M972.0,790.0 C972.0,1034.0 740.0,1034.0 740.0,1272.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1307.0,938.0 C1307.0,1108.0 740.0,1108.0 740.0,1272.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M624.0,1226.0 C624.0,1252.0 740.0,1252.0 740.0,1272.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M856.0,1226.0 C856.0,1252.0 740.0,1252.0 740.0,1272.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,1374.0 C740.0,1400.0 392.0,1400.0 392.0,1420.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 147.0,1548.0 147.0,1568.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 843.0,1548.0 843.0,1568.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,1374.0 C740.0,1400.0 856.0,1400.0 856.0,1420.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,1374.0 C740.0,1544.0 147.0,1544.0 147.0,1708.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M624.0,1522.0 C624.0,1618.0 147.0,1618.0 147.0,1708.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1618.0 379.0,1618.0 379.0,1708.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,1374.0 C740.0,1400.0 1088.0,1400.0 1088.0,1420.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1618.0 611.0,1618.0 611.0,1708.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1088.0,1522.0 C1088.0,1832.0 740.0,1832.0 740.0,2136.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,642.0 C392.0,1392.0 740.0,1392.0 740.0,2136.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M611.0,1810.0 C611.0,1976.0 740.0,1976.0 740.0,2136.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M843.0,1810.0 C843.0,1976.0 740.0,1976.0 740.0,2136.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,2238.0 C740.0,2264.0 1075.0,2264.0 1075.0,2284.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1075.0,2386.0 C1075.0,2482.0 508.0,2482.0 508.0,2572.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,2238.0 C740.0,2264.0 1307.0,2264.0 1307.0,2284.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,2238.0 C740.0,2264.0 1539.0,2264.0 1539.0,2284.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1539.0,2386.0 C1539.0,2482.0 740.0,2482.0 740.0,2572.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1307.0,2386.0 C1307.0,2556.0 392.0,2556.0 392.0,2720.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M856.0,642.0 C856.0,1684.0 392.0,1684.0 392.0,2720.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,2674.0 C740.0,2700.0 392.0,2700.0 392.0,2720.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 147.0,2848.0 147.0,2868.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,2238.0 C740.0,2334.0 740.0,2334.0 740.0,2424.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,2526.0 C740.0,2552.0 972.0,2552.0 972.0,2572.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M611.0,1810.0 C611.0,2194.0 972.0,2194.0 972.0,2572.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M147.0,1950.0 C147.0,2264.0 972.0,2264.0 972.0,2572.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M972.0,2674.0 C972.0,2700.0 624.0,2700.0 624.0,2720.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M972.0,2674.0 C972.0,2700.0 856.0,2700.0 856.0,2720.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 379.0,1688.0 379.0,1848.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 611.0,1688.0 611.0,1848.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 379.0,2848.0 379.0,2868.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 147.0,2996.0 147.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 379.0,2996.0 379.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 611.0,2996.0 611.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 843.0,2996.0 843.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 1307.0,1688.0 1307.0,1848.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 1539.0,1688.0 1539.0,1848.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M972.0,790.0 C972.0,816.0 1539.0,816.0 1539.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1539.0,938.0 C1539.0,1034.0 856.0,1034.0 856.0,1124.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,1374.0 C740.0,1400.0 624.0,1400.0 624.0,1420.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 379.0,1548.0 379.0,1568.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 611.0,1548.0 611.0,1568.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1618.0 843.0,1618.0 843.0,1708.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 147.0,1688.0 147.0,1848.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M972.0,2674.0 C972.0,2700.0 1088.0,2700.0 1088.0,2720.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,206.0 C740.0,232.0 972.0,232.0 972.0,252.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,790.0 C740.0,816.0 1075.0,816.0 1075.0,836.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 843.0,1688.0 843.0,1848.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1688.0 1075.0,1688.0 1075.0,1848.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,206.0 C740.0,232.0 740.0,232.0 740.0,252.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 1075.0,1548.0 1075.0,1568.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 1307.0,1548.0 1307.0,1568.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1075.0,1670.0 C1075.0,1906.0 508.0,1906.0 508.0,2136.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,2238.0 C508.0,2264.0 147.0,2264.0 147.0,2284.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,2238.0 C508.0,2264.0 379.0,2264.0 379.0,2284.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,2238.0 C508.0,2264.0 611.0,2264.0 611.0,2284.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M508.0,2238.0 C508.0,2264.0 843.0,2264.0 843.0,2284.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1548.0 1539.0,1548.0 1539.0,1568.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1618.0 1075.0,1618.0 1075.0,1708.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1075.0,1810.0 C1075.0,1976.0 972.0,1976.0 972.0,2136.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1618.0 1307.0,1618.0 1307.0,1708.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1618.0 1539.0,1618.0 1539.0,1708.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,790.0 C740.0,886.0 740.0,886.0 740.0,976.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 611.0,2848.0 611.0,2868.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 843.0,2848.0 843.0,2868.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 1075.0,2848.0 1075.0,2868.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 1307.0,2848.0 1307.0,2868.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 1075.0,2996.0 1075.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 1307.0,2996.0 1307.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,2996.0 1539.0,2996.0 1539.0,3016.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M147.0,2970.0 C147.0,3066.0 508.0,3066.0 508.0,3156.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,2822.0 C392.0,2848.0 1539.0,2848.0 1539.0,2868.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,3066.0 740.0,3066.0 740.0,3156.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M379.0,2970.0 C379.0,3066.0 972.0,3066.0 972.0,3156.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1758.0 392.0,1758.0 392.0,1988.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1758.0 624.0,1758.0 624.0,1988.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1758.0 856.0,1758.0 856.0,1988.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M392.0,1522.0 C392.0,1758.0 1088.0,1758.0 1088.0,1988.0" fill="none" stroke="#ef4444" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M740.0,206.0 C740.0,232.0 1204.0,232.0 1204.0,252.0" fill="none" stroke="#22c55e" stroke-opacity=".45" stroke-width="1.6" marker-end="url(#arr)"/>
+<g filter="url(#soft)">
+<rect x="633.0" y="110.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="129.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 0</text>
+<text x="647.0" y="149.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Target scope and workspace</text>
+<text x="647.0" y="194.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">shell</text>
+<g filter="url(#soft)">
+<rect x="169.0" y="258.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="183.0" y="277.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="183.0" y="297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Horizontal recon start</text>
+<text x="183.0" y="313.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">(org, ASN, IP ranges)</text>
+<text x="183.0" y="342.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">strategy</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="54.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Org name from WHOIS</text>
+<text x="54.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">whois</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="286.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">ASN and CIDR ranges</text>
+<text x="286.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">asnmap</text>
+<g filter="url(#soft)">
+<rect x="401.0" y="694.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="415.0" y="713.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="415.0" y="733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Expand CIDR to IPs</text>
+<text x="415.0" y="778.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">mapcidr</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="54.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Reverse DNS sweep (PTR)</text>
+<text x="54.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">dnsx</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="286.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">TLS SAN sweep</text>
+<text x="286.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">tlsx</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="518.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Port scan on ranges</text>
+<text x="518.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">naabu</text>
+<g filter="url(#soft)">
+<rect x="517.0" y="1130.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="531.0" y="1149.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 2  ·  HORIZONTAL</text>
+<text x="531.0" y="1169.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">In-scope acquisition hosts</text>
+<text x="531.0" y="1214.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep / sort</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 3  ·  HORIZONTAL</text>
+<text x="518.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Origin IP sources</text>
+<text x="518.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">shodan / urlscan / OTX</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="694.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="713.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 3  ·  HORIZONTAL</text>
+<text x="647.0" y="733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Merge candidate IPs</text>
+<text x="647.0" y="778.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 3  ·  HORIZONTAL</text>
+<text x="750.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Verify origin (Host header</text>
+<text x="750.0" y="897.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">+ TLS)</text>
+<text x="750.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">curl / openssl</text>
+<g filter="url(#soft)">
+<rect x="401.0" y="258.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="415.0" y="277.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 1  ·  VERTICAL</text>
+<text x="415.0" y="297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Vertical recon start</text>
+<text x="415.0" y="313.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">(subdomains and assets)</text>
+<text x="415.0" y="342.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">strategy</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 1  ·  VERTICAL</text>
+<text x="750.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Subfinder</text>
+<text x="750.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">subfinder</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 1  ·  VERTICAL</text>
+<text x="982.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Assetfinder</text>
+<text x="982.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">assetfinder</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 1  ·  VERTICAL</text>
+<text x="1214.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Certificate transparency</text>
+<text x="1214.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">curl + jq</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="406.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="425.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 1  ·  VERTICAL</text>
+<text x="1446.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Amass passive</text>
+<text x="1446.0" y="490.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">amass</text>
+<g filter="url(#soft)">
+<rect x="865.0" y="694.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="879.0" y="713.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 1  ·  VERTICAL</text>
+<text x="879.0" y="733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Merge and clean passive</text>
+<text x="879.0" y="749.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">subs</text>
+<text x="879.0" y="778.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">sort / grep</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 4  ·  VERTICAL</text>
+<text x="1214.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">DNS bruteforce</text>
+<text x="1214.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">puredns</text>
+<g filter="url(#soft)">
+<rect x="285.0" y="546.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="299.0" y="565.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 11  ·  VERTICAL</text>
+<text x="299.0" y="585.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Wayback URLs</text>
+<text x="299.0" y="630.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">waybackurls</text>
+<g filter="url(#soft)">
+<rect x="517.0" y="546.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="531.0" y="565.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 12  ·  VERTICAL</text>
+<text x="531.0" y="585.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Wayback CDX dump</text>
+<text x="531.0" y="630.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">curl</text>
+<g filter="url(#soft)">
+<rect x="749.0" y="546.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="763.0" y="565.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 13  ·  VERTICAL</text>
+<text x="763.0" y="585.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">ParamSpider archived</text>
+<text x="763.0" y="601.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">params</text>
+<text x="763.0" y="630.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">paramspider</text>
+<g filter="url(#soft)">
+<rect x="981.0" y="546.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="995.0" y="565.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 19  ·  VERTICAL</text>
+<text x="995.0" y="585.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">FFUF fuzzing</text>
+<text x="995.0" y="630.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">ffuf</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="1278.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="1297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 5</text>
+<text x="647.0" y="1317.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Final subdomain list (H +</text>
+<text x="647.0" y="1333.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">V merged)</text>
+<text x="647.0" y="1362.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">sort</text>
+<g filter="url(#soft)">
+<rect x="285.0" y="1426.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="299.0" y="1445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 6</text>
+<text x="299.0" y="1465.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Alive hosts</text>
+<text x="299.0" y="1510.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">httpx</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="1574.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 6</text>
+<text x="54.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Status, title, tech</text>
+<text x="54.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">httpx</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="1574.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 7</text>
+<text x="750.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">WAF detection</text>
+<text x="750.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">wafw00f</text>
+<g filter="url(#soft)">
+<rect x="749.0" y="1426.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="763.0" y="1445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 10</text>
+<text x="763.0" y="1465.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Port scan</text>
+<text x="763.0" y="1510.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">naabu</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="1714.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 9</text>
+<text x="54.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Subdomain takeover (Subzy)</text>
+<text x="54.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">subzy</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="1714.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 9</text>
+<text x="286.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Takeover templates</text>
+<text x="286.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="981.0" y="1426.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="995.0" y="1445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 11</text>
+<text x="995.0" y="1465.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">GAU archived URLs</text>
+<text x="995.0" y="1510.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">gau</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="1714.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 11</text>
+<text x="518.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Katana crawl</text>
+<text x="518.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">katana</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="2142.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="2161.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 11</text>
+<text x="647.0" y="2181.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Merge and dedupe URLs</text>
+<text x="647.0" y="2226.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">uro</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="2290.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 12</text>
+<text x="982.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Sensitive extensions</text>
+<text x="982.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep</text>
+<g filter="url(#soft)">
+<rect x="401.0" y="2578.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="415.0" y="2597.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 12</text>
+<text x="415.0" y="2617.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">404 interesting files</text>
+<text x="415.0" y="2662.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">httpx</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="2290.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 13</text>
+<text x="1214.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Parameterized URLs</text>
+<text x="1214.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep / uro</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="2290.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 13</text>
+<text x="1446.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Clean endpoint list</text>
+<text x="1446.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">sed / sort</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="2578.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="2597.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 13</text>
+<text x="647.0" y="2617.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Hidden parameter discovery</text>
+<text x="647.0" y="2662.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">arjun</text>
+<g filter="url(#soft)">
+<rect x="285.0" y="2726.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="299.0" y="2745.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 13</text>
+<text x="299.0" y="2765.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Merge all parameter</text>
+<text x="299.0" y="2781.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">sources</text>
+<text x="299.0" y="2810.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">uro / sort</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="2874.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 13</text>
+<text x="54.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">IDOR candidates and manual</text>
+<text x="54.0" y="2929.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">tests</text>
+<text x="54.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep + manual</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="2430.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="2449.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 16</text>
+<text x="647.0" y="2469.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">JS URL list</text>
+<text x="647.0" y="2514.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep</text>
+<g filter="url(#soft)">
+<rect x="865.0" y="2578.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="879.0" y="2597.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 16</text>
+<text x="879.0" y="2617.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Live JS files</text>
+<text x="879.0" y="2662.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">httpx</text>
+<g filter="url(#soft)">
+<rect x="517.0" y="2726.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="531.0" y="2745.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 16</text>
+<text x="531.0" y="2765.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Secrets in JS</text>
+<text x="531.0" y="2810.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">SecretFinder</text>
+<g filter="url(#soft)">
+<rect x="749.0" y="2726.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="763.0" y="2745.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 16</text>
+<text x="763.0" y="2765.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Exposures in JS</text>
+<text x="763.0" y="2810.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="1854.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 18</text>
+<text x="286.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Exposures and misconfig</text>
+<text x="286.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="1854.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 19</text>
+<text x="518.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Directory discovery</text>
+<text x="518.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">dirsearch</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="2874.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 20</text>
+<text x="286.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">gf pattern split</text>
+<text x="286.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">gf</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 20</text>
+<text x="54.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">LFI check</text>
+<text x="54.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 20</text>
+<text x="286.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">SSRF check</text>
+<text x="286.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 20</text>
+<text x="518.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Open redirect check</text>
+<text x="518.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">httpx</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 20</text>
+<text x="750.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">XSS candidates</text>
+<text x="750.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">dalfox</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="1854.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 20</text>
+<text x="1214.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">CORS check</text>
+<text x="1214.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei + corsy</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="1854.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 20</text>
+<text x="1446.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">CRLF check</text>
+<text x="1446.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 4  ·  VERTICAL</text>
+<text x="1446.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">DNS permutations (alterx)</text>
+<text x="1446.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">alterx</text>
+<g filter="url(#soft)">
+<rect x="749.0" y="1130.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="763.0" y="1149.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 4  ·  VERTICAL</text>
+<text x="763.0" y="1169.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Resolve permutations</text>
+<text x="763.0" y="1214.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">puredns</text>
+<g filter="url(#soft)">
+<rect x="517.0" y="1426.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="531.0" y="1445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 9</text>
+<text x="531.0" y="1465.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">DNS records and CNAMEs</text>
+<text x="531.0" y="1510.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">dnsx</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="1574.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 6</text>
+<text x="286.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Favicon hashes</text>
+<text x="286.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">httpx</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="1574.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 6</text>
+<text x="518.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Screenshots</text>
+<text x="518.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">gowitness</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="1714.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 11</text>
+<text x="750.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Gospider crawl</text>
+<text x="750.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">gospider</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="1854.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 16</text>
+<text x="54.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">JS from HTML (subjs)</text>
+<text x="54.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">subjs</text>
+<g filter="url(#soft)">
+<rect x="981.0" y="2726.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="995.0" y="2745.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 16</text>
+<text x="995.0" y="2765.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Endpoints and secrets in</text>
+<text x="995.0" y="2781.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">JS</text>
+<text x="995.0" y="2810.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">jsluice</text>
+<g filter="url(#soft)">
+<rect x="865.0" y="258.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="879.0" y="277.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 17</text>
+<text x="879.0" y="297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">GitHub org secret scan</text>
+<text x="879.0" y="342.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">trufflehog</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="842.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 3  ·  HORIZONTAL</text>
+<text x="982.0" y="881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Virtual host fuzzing</text>
+<text x="982.0" y="926.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">ffuf</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="1854.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 19</text>
+<text x="750.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">API route discovery</text>
+<text x="750.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">kiterunner</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="1854.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="1873.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 19</text>
+<text x="982.0" y="1893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">GraphQL fingerprint</text>
+<text x="982.0" y="1938.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">graphw00f</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="258.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="277.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 13</text>
+<text x="647.0" y="297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Hidden parameters (x8)</text>
+<text x="647.0" y="342.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">x8</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="1574.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 8</text>
+<text x="982.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Tech and CMS fingerprint</text>
+<text x="982.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">whatweb</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="1574.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 8</text>
+<text x="1214.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">CMS detection (CMSeeK)</text>
+<text x="1214.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">CMSeeK</text>
+<g filter="url(#soft)">
+<rect x="401.0" y="2142.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="415.0" y="2161.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 8</text>
+<text x="415.0" y="2181.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Split hosts by CMS</text>
+<text x="415.0" y="2226.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">grep</text>
+<g filter="url(#soft)">
+<rect x="40.0" y="2290.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="54.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 8</text>
+<text x="54.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">WordPress scan (WPScan)</text>
+<text x="54.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">wpscan</text>
+<g filter="url(#soft)">
+<rect x="272.0" y="2290.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="286.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 8</text>
+<text x="286.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">WordPress users (REST API)</text>
+<text x="286.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">curl + jq</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="2290.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 8</text>
+<text x="518.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Joomla scan</text>
+<text x="518.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">joomscan</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="2290.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="2309.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 8</text>
+<text x="750.0" y="2329.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Drupal scan</text>
+<text x="750.0" y="2374.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">droopescan</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="1574.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="1593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 8</text>
+<text x="1446.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">CMS templates (nuclei)</text>
+<text x="1446.0" y="1658.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="1714.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 14</text>
+<text x="982.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Find OpenAPI or Swagger</text>
+<text x="982.0" y="1769.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">spec</text>
+<text x="982.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">curl</text>
+<g filter="url(#soft)">
+<rect x="865.0" y="2142.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="879.0" y="2161.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 14</text>
+<text x="879.0" y="2181.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Endpoints from the spec</text>
+<text x="879.0" y="2226.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">jq</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="1714.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 15</text>
+<text x="1214.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Authenticated crawl</text>
+<text x="1214.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">katana</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="1714.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="1733.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 15</text>
+<text x="1446.0" y="1753.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Authenticated fuzzing</text>
+<text x="1446.0" y="1798.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">ffuf</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="982.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="1001.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 10</text>
+<text x="647.0" y="1021.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Detailed service scan</text>
+<text x="647.0" y="1066.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nmap</text>
+<g filter="url(#soft)">
+<rect x="504.0" y="2874.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="518.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 21</text>
+<text x="518.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">XSS reflection check</text>
+<text x="518.0" y="2929.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(kxss)</text>
+<text x="518.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">kxss</text>
+<g filter="url(#soft)">
+<rect x="736.0" y="2874.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="750.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 21</text>
+<text x="750.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">XSS reflection check</text>
+<text x="750.0" y="2929.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(Gxss)</text>
+<text x="750.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">Gxss</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="2874.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 21</text>
+<text x="982.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Blind XSS payloads (bxss)</text>
+<text x="982.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">bxss</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="2874.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 21</text>
+<text x="1214.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">XSS testing (XSStrike)</text>
+<text x="1214.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">XSStrike</text>
+<g filter="url(#soft)">
+<rect x="968.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="982.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 22</text>
+<text x="982.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">SQL injection detection</text>
+<text x="982.0" y="3077.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(sqlmap)</text>
+<text x="982.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">sqlmap</text>
+<g filter="url(#soft)">
+<rect x="1200.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1214.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 22</text>
+<text x="1214.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">SQL injection detection</text>
+<text x="1214.0" y="3077.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(ghauri)</text>
+<text x="1214.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">ghauri</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="3022.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="3041.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 23</text>
+<text x="1446.0" y="3061.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">SSRF callback check</text>
+<text x="1446.0" y="3077.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(interactsh)</text>
+<text x="1446.0" y="3106.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">interactsh</text>
+<g filter="url(#soft)">
+<rect x="401.0" y="3162.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="415.0" y="3181.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 24</text>
+<text x="415.0" y="3201.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Access control check (two</text>
+<text x="415.0" y="3217.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">accounts)</text>
+<text x="415.0" y="3246.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">curl + Autorize</text>
+<g filter="url(#soft)">
+<rect x="1432.0" y="2874.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1446.0" y="2893.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 25</text>
+<text x="1446.0" y="2913.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Template injection check</text>
+<text x="1446.0" y="2929.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(nuclei)</text>
+<text x="1446.0" y="2958.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="633.0" y="3162.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="647.0" y="3181.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 26</text>
+<text x="647.0" y="3201.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">OS command injection</text>
+<text x="647.0" y="3217.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(commix)</text>
+<text x="647.0" y="3246.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">commix</text>
+<g filter="url(#soft)">
+<rect x="865.0" y="3162.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="879.0" y="3181.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 30</text>
+<text x="879.0" y="3201.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Path traversal check</text>
+<text x="879.0" y="3217.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">(nuclei)</text>
+<text x="879.0" y="3246.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="285.0" y="1994.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="299.0" y="2013.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 27</text>
+<text x="299.0" y="2033.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">XXE check (nuclei)</text>
+<text x="299.0" y="2078.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="517.0" y="1994.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="531.0" y="2013.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 28</text>
+<text x="531.0" y="2033.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">JWT checks (jwt_tool)</text>
+<text x="531.0" y="2078.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">jwt_tool</text>
+<g filter="url(#soft)">
+<rect x="749.0" y="1994.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="763.0" y="2013.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 29</text>
+<text x="763.0" y="2033.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">OAuth and redirect checks</text>
+<text x="763.0" y="2078.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei</text>
+<g filter="url(#soft)">
+<rect x="981.0" y="1994.0" width="214" height="96" rx="14" fill="url(#vuln)" stroke="#ef4444" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="995.0" y="2013.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#fca5a5">STEP 31</text>
+<text x="995.0" y="2033.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#fee2e2">Cloud misconfig</text>
+<text x="995.0" y="2078.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">nuclei / aws cli</text>
+<g filter="url(#soft)">
+<rect x="1097.0" y="258.0" width="214" height="96" rx="14" fill="url(#recon)" stroke="#22c55e" stroke-opacity=".55" stroke-width="1.2"/>
+</g>
+<text x="1111.0" y="277.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#86efac">STEP 32</text>
+<text x="1111.0" y="297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#dcfce7">Manual checks (browser)</text>
+<text x="1111.0" y="342.0" font-family="Consolas, Menlo, monospace" font-size="11" fill="#7dd3fc">browser</text>
+</svg>
